@@ -49,5 +49,6 @@ end
 group :production do
   gem 'pg'
   gem 'rails_12factor'
+  gem 'thor', '0.19.1'
 end
 
